@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planten on Frits Teeuwen</title>
+    <link>http://localhost:1313/categories/planten/</link>
+    <description>Recent content in Planten on Frits Teeuwen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/planten/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Natuur</title>
+      <link>http://localhost:1313/natuur/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/natuur/</guid>
+        <media:content url="http://localhost:1313/natuur/khardur_Photo_of_sunset_at_a_river_thats_busy_with_boats_827403fd-96ee-49e2-a2c1-34472d878806_hu17096109750885217259.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/natuur/khardur_Photo_of_sunset_at_a_river_thats_busy_with_boats_827403fd-96ee-49e2-a2c1-34472d878806_hu17096109750885217259.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
