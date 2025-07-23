@@ -1,7 +1,7 @@
 ---
 date: 2025-01-12
-title: Architectuur
-categories: ["Architectuur"]
+title: Dieren
+categories: ["Dieren"]
 resources:
   - src: 
     params:
